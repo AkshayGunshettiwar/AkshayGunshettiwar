@@ -1,5 +1,5 @@
- 👋 Hi, I’m @AkshayGunshettiwar
- 👀 I’m interested in Web Development
+ 👋 Hello, I’m @AkshayGunshettiwar
+ 👀 Web Developer
 
 
 
